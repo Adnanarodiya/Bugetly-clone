@@ -13,6 +13,7 @@
     "@mantine/core": "^6.0.2",
     "@mantine/hooks": "^6.0.2",
     "daisyui": "^2.51.4",
+    "init": "^0.1.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
