@@ -27,8 +27,7 @@ const Home = () => {
       </div>
       <div className="flex items-center justify-center pt-12">
         <p className="text-4xl">
-          You are not <a href="components/Login.jsx">signed in.</a> Sign in or
-          Register to continue
+          You are not signed in. Sign in or Register to continue
         </p>
       </div>
     </>
