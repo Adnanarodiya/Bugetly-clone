@@ -2,11 +2,11 @@ import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 
-import Login from "./components/Login";
-import Home from "./components/Home";
+import Login from "./Pages/Login";
+import Home from "./Pages/Home";
 
 function App() {
-  return <Home />;
+  return <Login />;
 }
 
 export default App;
